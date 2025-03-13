@@ -90,7 +90,7 @@ I specialize in building **secure, scalable  systems** with a focus on **clean a
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muthaa&show_icons=true&theme=radical)  
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muthaa&show_icons=true&theme=radical)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthaa&layout=compact&theme=radical)
 
 ---
