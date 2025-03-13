@@ -1,4 +1,4 @@
-#🚀 **Software Developer | API Architect | Fullstack Developer | Cybersecurity Enthusiast | Network Security**  
+# 🚀Software Developer | API Architect | Fullstack Developer | Cybersecurity Enthusiast | Network Security 
 
 I specialize in building **secure, scalable  systems** with a focus on **clean architecture**, **API design**, and **robust authentication workflows**. My expertise spans across **Python, C#, Node.js, MySQL**, and **Mobile Development (Flutter, React Native)**. I’m passionate about **security**, **optimizing APIs**, and creating seamless user experiences. As a **digital consultant** and **cybersecurity enthusiast**, I also have a strong background in **e-commerce solutions**, **networking**, and **mobile app security**. Whether it's building **advanced POS systems**, integrating **payment APIs**, or learning about **AI & Blockchain**, I thrive in the intersection of technology and business.
 
