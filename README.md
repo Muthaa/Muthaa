@@ -47,6 +47,11 @@ I specialize in building **secure, scalable  systems** with a focus on **clean a
 - **Key Features**: Secure user data, therapy session tracking, wellness tips, user data protection.
 - **Tech**: Node.js, Flutter
 
+### 🐶 **PetCare Adventures Game**  
+- **Purpose**: An interactive pet care game where you can adopt, care for, and grow a lovable virtual pet.
+- **Key Features**:  Adopt a Pet, Save and Load Progress, Level Ups, Random Events.
+- **Tech**: Python
+
 ### 📱 **UN SDG Apps**  
 - **Purpose**: Health and business support apps targeting the UN SDG.
 - **Key Features**: Health tracking, small business support, secure mobile app integrations.
