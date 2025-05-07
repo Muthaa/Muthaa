@@ -27,7 +27,7 @@ I specialize in building **secure, scalable  systems** with a focus on **clean a
 
 ## 🚀 Current & Past Projects
 
-### 🏪 **EmPOS**  
+### 🏪 **AsiriaPOS**  
 - **Purpose**: A Point of Sale (POS) system for small businesses.
 - **Key Features**: Token-based authentication, advanced search functionality, secure payment integrations (M-Pesa, WooCommerce).
 - **Tech**: C#, .NET, SQL Server, Firebase
@@ -42,7 +42,7 @@ I specialize in building **secure, scalable  systems** with a focus on **clean a
 - **Key Features**: Secure user authentication, role-based management (Doctors, Admins, Patients), scalable appointment system.
 - **Tech**: Node.js, MySQL, JWT Authentication
 
-### 🧠 **Mental Health App**  
+### 🧠 **Iseras App**  
 - **Purpose**: Guided therapy and mood tracking for users.
 - **Key Features**: Secure user data, therapy session tracking, wellness tips, user data protection.
 - **Tech**: Node.js, Flutter
