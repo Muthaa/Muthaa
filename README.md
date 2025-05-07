@@ -29,7 +29,7 @@ I specialize in building **secure, scalable  systems** with a focus on **clean a
 
 ### 🏪 **AsiriaPOS**  
 - **Purpose**: A Point of Sale (POS) system for small businesses.
-- **Key Features**: Token-based authentication, advanced search functionality, secure payment integrations (M-Pesa, WooCommerce).
+- **Key Features**: Token-based authentication, advanced search functionality, secure payment integrations.
 - **Tech**: C#, .NET, SQL Server, Firebase
 
 ### 🚗 **Ride-Share App**  
